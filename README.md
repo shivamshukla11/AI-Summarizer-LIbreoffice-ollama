@@ -1,0 +1,1 @@
+# AI-Summarizer-LIbreoffice-ollama
